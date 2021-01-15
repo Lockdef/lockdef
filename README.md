@@ -1,4 +1,10 @@
-### Hi there 👋
+### 👋 Hi there
+
+Go to [lockdef's profile](https://defs.dev)
+
+### 🔒 Key
+
+Public Key -> [79317941E0CB1549](http://keys.gnupg.net/pks/lookup?op=get&search=0x79317941E0CB1549)
 
 <!--
 **Lockdef/lockdef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
